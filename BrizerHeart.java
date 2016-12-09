@@ -10,6 +10,7 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
 
+
 public class BrizerHeart  extends View{
 	private static final float C=0.551915024494f; // A constant to caculate the positon
 	private Paint mPaint;
